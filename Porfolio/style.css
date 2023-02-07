@@ -1,0 +1,67 @@
+.banner-container{
+     background-color: rgb(130, 43, 211);
+
+     font-family: cursive;
+}
+.banner-colum{
+    background-color: rgb(130, 43, 211);
+}
+.navbar-container{
+    top: 0;
+    z-index: 2;
+    background-color: black;
+    position: sticky;
+}
+.about-container{
+    background-color: rgb(21, 114, 117);
+}
+.education-container{
+    background-color: cadetblue;
+}
+.bg-redtype{
+background-color: coral;
+}
+.bg-redtype:hover{
+    color: rgb(240, 212, 203);
+    }
+.attempt-padding{
+margin-left: 2px;
+margin-right: 2px;
+}
+.circle{
+    width: 150px;
+
+    height: 150px;
+    border-radius: 50%;
+    background-color: coral;
+}
+.project-container{
+    background-color: coral;
+}
+.port-container{
+    background-color: darkcyan;
+}
+.form-container{
+    background-color:  #3b4242;;
+}
+.inner-form{
+    background-color: #838b8b;
+}
+.footer{
+    background-color: cadetblue;
+}
+.icon-circle{ 
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color:white;
+    font-size: 20px;
+    text-align: center;
+    padding: auto;
+    margin-right: 3px;
+}
+.icon-circle:hover{ 
+    
+    background-color:rgba(16, 132, 199, 0.719);
+}
